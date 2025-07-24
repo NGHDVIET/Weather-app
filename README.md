@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Weather App is a Flutter-based mobile application that provides real-time weather information including temperature, location, and weather icons. It is built using Flutter, Dart, and APIs, and developed with Android Studio.
 
 ## Getting Started
 
